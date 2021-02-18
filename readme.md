@@ -11,6 +11,6 @@ These scripts are for Azure Meetup in Iceland at 19th of February 2021, here are
 * Accessing Graph from REST api, through Powershell
 * Posting data to a facebook workplace and or other similar sites.
 * Ideas and thoughts about benefits of using Powershell
-** Can we create users through other systems
-** Can we gather data that is only needed from the systems.
+* * Can we create users through other systems
+* * Can we gather data that is only needed from the systems.
 
