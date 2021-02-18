@@ -1,4 +1,4 @@
-# Script created by GÃ­sli GuÃ°mundsson
+# Script created by Gí­sli Guðmundsson
 # For Azug Meetup Iceland - 19.02.2021
 
 # Replace some of the characters in the word list
