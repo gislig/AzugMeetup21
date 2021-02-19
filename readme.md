@@ -15,3 +15,6 @@ These scripts are for Azure Meetup in Iceland at 19th of February 2021, here are
   * Can we gather data that is only needed from the systems.
 
 Check out our youtube channel https://www.youtube.com/channel/UCQFG2bp2RFF4eyIRyY5v5Ng
+# Interesting links
+* https://www.cloud-boy.be/blog/serverless-laps-with-intune-function-app-and-key-vault/
+* https://hackingandsecurity.blogspot.com/2017/07/running-laps-around-cleartext-passwords.html
